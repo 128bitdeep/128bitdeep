@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Deep Varalia
+- 🌱 I’m currently learning Javascript and Node JS
+- 👀 I’m interested in developing automation scripts, data scraping, python projects, writing scripts that solve common problems
+- 💞️ I’m looking to collaborate on python projects and front-end web developments
+- 📫 I can be reached at varaliadeep@gmail.com
